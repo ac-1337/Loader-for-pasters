@@ -1,0 +1,73 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(32,9): warning C4129: 'M': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(123,9): warning C4129: '/': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(124,9): warning C4129: 'M': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(215,9): warning C4129: '/': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(445,14): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(446,14): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(447,14): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(491,9): warning C4129: 'C': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(498,9): warning C4129: 'C': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(499,9): warning C4129: 'C': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(500,9): warning C4129: 'C': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(501,9): warning C4129: 'C': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(502,9): warning C4129: 'C': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(513,9): warning C4129: 'C': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(530,9): warning C4129: 'D': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(537,9): warning C4129: 'D': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(538,9): warning C4129: 'D': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(539,9): warning C4129: 'D': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(540,9): warning C4129: 'D': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(541,9): warning C4129: 'D': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(552,9): warning C4129: 'D': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(569,9): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(576,9): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(577,9): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(578,9): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(579,9): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(580,9): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(591,9): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(608,9): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(615,9): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(616,9): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(617,9): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(618,9): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(619,9): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(630,9): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(751,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(805,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(862,11): warning C4101: 'Data': unreferenced local variable
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(924,9): warning C4129: '*': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(930,9): warning C4129: 'K': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(956,30): warning C4129: '$': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(1438,9): warning C4129: '%': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(1439,9): warning C4129: '%': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(1440,9): warning C4129: '%': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(1441,9): warning C4129: '%': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(1468,9): warning C4129: '%': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(1469,9): warning C4129: '%': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(1470,9): warning C4129: '%': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(1471,9): warning C4129: '%': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(1472,9): warning C4129: '%': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(1493,9): warning C4129: '%': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(1502,9): warning C4129: '%': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(1505,9): warning C4129: '%': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(1615,9): warning C4129: '%': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(1616,9): warning C4129: '%': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(1617,9): warning C4129: '%': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(1618,9): warning C4129: '%': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(1644,9): warning C4129: '%': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(1645,9): warning C4129: '%': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(1646,9): warning C4129: '%': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(1647,9): warning C4129: '%': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(1648,9): warning C4129: '%': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(1669,9): warning C4129: '%': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(1678,9): warning C4129: '%': unrecognized character escape sequence
+C:\Users\Sergiu\source\repos\ConsoleApplication1\ConsoleApplication1\cleaner.h(1681,9): warning C4129: '%': unrecognized character escape sequence
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 3488 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConsoleApplication1.vcxproj -> C:\Users\Sergiu\source\repos\ConsoleApplication1\x64\Release\AntiCheese Paste.exe
